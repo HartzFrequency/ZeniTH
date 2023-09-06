@@ -1,2 +1,2 @@
 # ZeniTH
-a personal voice assistance AI 
+my personal voice assistance AI 
